@@ -32679,8 +32679,8 @@ button.hamburger.animate.active:after {
 
 @font-face {
     font-family: Unicons;
-    src: url(../../fonts/unicons/Unicons.eot?muc7dc);
-    src: url(../../fonts/unicons/Unicons.eot?muc7dc#iefix) format("embedded-opentype"), url(../../fonts/unicons/Unicons.ttf?muc7dc) format("truetype"), url(../../fonts/unicons/Unicons.woff?muc7dc) format("woff"), url(../../fonts/unicons/Unicons.svg?muc7dc#Unicons) format("svg");
+    src: url(../../fonts/unicons/Unicons.eot);
+    src: url(../../fonts/unicons/Unicons.eot) format("embedded-opentype"), url(../../fonts/unicons/Unicons.ttf) format("truetype"), url(../../fonts/unicons/Unicons.woff) format("woff"), url(../../fonts/unicons/Unicons.svg#Unicons) format("svg");
     font-weight: 400;
     font-style: normal;
     font-display: block
